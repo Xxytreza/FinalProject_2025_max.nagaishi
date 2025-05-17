@@ -92,7 +92,7 @@ This project develops a recommender system for short videos using the KuaiRec 2.
 - **MAE = 0.2970:**  
   On average, predictions are off by about 0.3 units.
 
-- **Precision@10 = 0.67688:**  
+- **Precision@10 = 0.74:**  
   About 7 out of 10 recommended videos in the top 10 are relevant to the user.
 
 The RMSE and MAE could be lower if fine tuning the ALS.
@@ -111,7 +111,8 @@ The RMSE and MAE could be lower if fine tuning the ALS.
     - Tuning ALS parameters further.
     - Exploring hybrid or deep learning approaches.
   - In the final project, the item_categories data set has not been used which should have been used to create better recommendations.
-  - The temporal patterns has not been relevant in the final project. 
+  - The temporal patterns has not been relevant in the final project.
+  - There is only Precision@ as a evaluation metric, there should be more
 
 ---
 
