@@ -30,13 +30,9 @@ This project develops a recommender system for short videos using the KuaiRec 2.
 
 - **Combined Engagement Metric:**  
   - Calculated `like_ratio` for each video:  
-    \[
-    \text{like\_ratio} = \frac{\text{total likes}}{\text{total plays}}
-    \]
+    like_ratio = total_likes / total_plays
   - Created a `combined_ratio` for each user-video interaction:  
-    \[
-    \text{combined\_ratio} = 0.8 \times \text{watch\_ratio} + 0.2 \times \text{like\_ratio}
-    \]
+    combined_ratio = 0.8 * watch_ratio + 0.2 * like_ratio
   - This metric balances user engagement (watch time) and video quality (likes).
 
 ---
