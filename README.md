@@ -58,13 +58,13 @@ This project develops a recommender system for short videos using the KuaiRec 2.
 - **Metrics:**
   - **RMSE (Root Mean Squared Error):** 1.0680
   - **MAE (Mean Absolute Error):** 0.2988
-  - **Average Precision:** 0.7 
-    Precision@10: 0.7411150961851972                                                                        
-    Precision@50: 0.736224323443104                                                                         
-    Precision@100: 0.7293772416041735
-    Precision@200: 0.7163351809585915                                                                           
-    Precision@500: 0.677535050537985
-    Precision@1000: 0.6113465927616564
+  - **Average Precision:** 0.7: 
+    - Precision@10: 0.7411150961851972                                                                        
+    - Precision@50: 0.736224323443104                                                                         
+    - Precision@100: 0.7293772416041735
+    - Precision@200: 0.7163351809585915                                                                           
+    - Precision@500: 0.677535050537985
+    - Precision@1000: 0.6113465927616564
 
 ---
 
