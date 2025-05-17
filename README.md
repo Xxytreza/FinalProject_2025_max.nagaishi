@@ -1,1 +1,0 @@
-# FinalProject_2025_max.nagaishi
